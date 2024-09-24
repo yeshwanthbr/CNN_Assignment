@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> Using custom CNN model for Melanoma Skin Cancer Detection
 
 
 ## Table of Contents
